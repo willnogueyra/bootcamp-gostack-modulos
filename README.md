@@ -27,10 +27,10 @@
 
 - ### NIVEL 4
 - [10 - Arquitetura e testes no Node.js](https://github.com/willnogueyra/bootcamp-gostack-modulos/tree/master/nivel-04/01-arquitetura-e-testes-no-nodejs)  
-- [12 - Finalizando Back-end do app](https://github.com/willnogueyra/bootcamp-gostack-modulos/tree/master/nivel-04/02-finalizando-backend-do-app) 
+- [11 - Finalizando Back-end do app](https://github.com/willnogueyra/bootcamp-gostack-modulos/tree/master/nivel-04/02-finalizando-backend-do-app) 
 - 
 - ### NIVEL 5
-- [13 - Finalizando Front-end do app](https://github.com/willnogueyra/bootcamp-gostack-modulos/tree/master/nivel-05/01-finalizando-frontend-web-do-app)
+- [12 - Finalizando Front-end do app](https://github.com/willnogueyra/bootcamp-gostack-modulos/tree/master/nivel-05/01-finalizando-frontend-web-do-app)
 
 --- 
 
